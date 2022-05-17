@@ -4,8 +4,8 @@
 ### to run local server
 `hugo server --disableFastRender -D`
 
-### to push code
-`git submodule sync`
+### to update submodules
+`git submodule foreach git pull origin master`
 
 ### to build pages
 `hugo -D`
