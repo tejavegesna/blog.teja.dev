@@ -1,4 +1,4 @@
-# teja.dev
+# blog.teja.dev
 
 
 ### to run local server

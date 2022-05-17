@@ -1,6 +1,6 @@
 baseURL = 'https://blog.teja.dev/'
 languageCode = 'en-us'
-title = 'teja.dev'
+title = 'blog.teja.dev'
 theme = "hugo-ink"
 
 copyright = "© Copyright notice"
@@ -79,7 +79,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/tejavegesna/teja.dev"
+url = "https://github.com/tejavegesna"
 
 [[params.social]]
 name = "Twitter"
