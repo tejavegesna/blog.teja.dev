@@ -1,0 +1,38 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "previewPath": null,
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags",
+          "default": [""]
+        }
+      ]
+    }
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "posts",
+      "path": "[[workspace]]/content/posts"
+    }
+  ]
+}
