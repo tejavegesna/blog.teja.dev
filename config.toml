@@ -1,4 +1,4 @@
-baseURL = 'https://teja.dev/'
+baseURL = 'https://blog.teja.dev/'
 languageCode = 'en-us'
 title = 'teja.dev'
 theme = "hugo-ink"
