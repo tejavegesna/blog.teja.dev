@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 17 May 2022 00:34:15 -0400</lastBuildDate><atom:link href="https://blog.teja.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 06:44:37 +0000</lastBuildDate><atom:link href="https://blog.teja.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://blog.teja.dev/posts/my-first-post/</link>
-      <pubDate>Tue, 17 May 2022 00:34:15 -0400</pubDate>
+      <title>First Article</title>
+      <link>https://blog.teja.dev/posts/2022-05-17-first-article/</link>
+      <pubDate>Tue, 17 May 2022 06:44:37 +0000</pubDate>
       
-      <guid>https://blog.teja.dev/posts/my-first-post/</guid>
-      <description>This is some static page where you can write about yourself.</description>
+      <guid>https://blog.teja.dev/posts/2022-05-17-first-article/</guid>
+      <description>This is my first article using static blog</description>
     </item>
     
   </channel>
