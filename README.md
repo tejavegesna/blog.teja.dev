@@ -1,16 +1,16 @@
 # blog.teja.dev
 
 
-### to run local server
+### run local server
 `hugo server --disableFastRender -D`
 
-### to update submodules
+### update submodules
 `git submodule foreach git pull origin master`
 
-### to build pages
+### build pages
 `hugo -D`
 
-### to write blog posts use 
+### for writing blog posts use 
 VSCode Editor & below plugins <br>
 https://gohugo.io/tools/editors/#visual-studio-code
 
