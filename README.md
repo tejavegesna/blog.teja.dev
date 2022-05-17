@@ -9,3 +9,7 @@
 
 ### to build pages
 `hugo -D`
+
+### to write blog posts use 
+https://prose.io/#tejavegesna/blog.teja.dev/tree/main/content/posts
+VSCode Editor
